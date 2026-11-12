@@ -14,16 +14,24 @@ Qurio Cell Viewer is a free, read-only Windows application for viewing large CSV
 
 Explore huge files, search for data, split structured logs into columns, and inspect long or multiline cell contents in a dedicated lower pane.
 
+### 500GB LOG / 5.7 Billion Rows — Last Row & Long Text
+
 ![500GB LOG / 5.7 Billion Rows — Last Row & Long Text](https://www.quriotechnos.com/images/software/qurio-cell-viewer-log-500gb-en.png)
 
-*500GB LOG / 5.7 Billion Rows — Last Row & Long Text*
+### Watch the Demos
 
-**Demonstration videos (MP4 on the official website)**
+Click an image to watch the MP4 demonstration on our official website.
 
-- ▶ [CSV / TSV Demo](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_CSV_Demo.mp4)
-- ▶ [LOG / TXT Demo](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_LOG_Demo.mp4)
+| ▶ CSV / TSV Demo | ▶ LOG / TXT Demo |
+|:---:|:---:|
+| [![Watch CSV / TSV Demo](https://www.quriotechnos.com/images/software/qurio-cell-viewer-csv-2b-en.png)](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_CSV_Demo.mp4) | [![Watch LOG / TXT Demo](https://www.quriotechnos.com/images/software/qurio-cell-viewer-log-search-en.png)](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_LOG_Demo.mp4) |
+| [▶ Play CSV / TSV video](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_CSV_Demo.mp4) | [▶ Play LOG / TXT video](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_LOG_Demo.mp4) |
 
-**[Download for Windows x64](https://github.com/Qurio-FF/qurio-cell-viewer-releases/releases)**
+---
+
+### Get Qurio Cell Viewer
+
+**[Download for Windows x64 (GitHub Releases)](https://github.com/Qurio-FF/qurio-cell-viewer-releases/releases)**
 
 ### Key Features
 
@@ -119,16 +127,24 @@ Qurio Cell Viewerは、巨大なCSV・TSV・LOG・TXTファイルを表計算ソ
 
 大容量ファイルの表示・検索、LOG/TXTの列分割表示、長文・複数行セルの下ペイン表示に対応しています。
 
+### 500GB・約57億行のLOG — 最終行と長文表示
+
 ![500GB・約57億行のLOG — 最終行と長文表示](https://www.quriotechnos.com/images/software/qurio-cell-viewer-log-500gb-ja.png)
 
-*500GB・約57億行のLOG — 最終行と長文表示*
+### 操作動画を見る
 
-**操作動画（公式サイトのMP4）**
+画像をクリックすると、公式サイトのMP4動画が開きます。
 
-- ▶ [CSV / TSV 操作デモ](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_CSV_Demo.mp4)
-- ▶ [LOG / TXT 操作デモ](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_LOG_Demo.mp4)
+| ▶ CSV / TSV 操作デモ | ▶ LOG / TXT 操作デモ |
+|:---:|:---:|
+| [![CSV / TSV 操作デモを見る](https://www.quriotechnos.com/images/software/qurio-cell-viewer-csv-2b-ja.png)](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_CSV_Demo.mp4) | [![LOG / TXT 操作デモを見る](https://www.quriotechnos.com/images/software/qurio-cell-viewer-log-search-ja.png)](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_LOG_Demo.mp4) |
+| [▶ CSV / TSV 動画を再生](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_CSV_Demo.mp4) | [▶ LOG / TXT 動画を再生](https://www.quriotechnos.com/videos/qurio-cell-viewer/Qurio_Cell_Viewer_LOG_Demo.mp4) |
 
-**[Windows x64用インストーラーをダウンロード](https://github.com/Qurio-FF/qurio-cell-viewer-releases/releases)**
+---
+
+### ダウンロード
+
+**[Windows x64用インストーラー（GitHub Releases）](https://github.com/Qurio-FF/qurio-cell-viewer-releases/releases)**
 
 ### 主な特徴
 
