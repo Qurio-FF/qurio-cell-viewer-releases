@@ -92,6 +92,12 @@ Select the file named `QurioCellViewer-Setup-<version>.exe`.
 
 The application is free and read-only. It does not automatically change Windows file associations.
 
+### Supported Operating Systems
+
+Qurio Cell Viewer is currently available for Windows x64.
+
+Support for macOS and Linux will be considered based on user demand.
+
 ### Screenshots and Demos
 
 **124GB CSV / 2 Billion Rows — Last Row & Cell View**
@@ -198,6 +204,12 @@ GitHub ReleasesからWindows x64用インストーラーをダウンロードし
 `QurioCellViewer-Setup-<version>.exe` を選択してください。
 
 本ソフトウェアは無料の閲覧専用ビューアです。Windowsの既定アプリの関連付けは自動変更しません。
+
+### 対応OS
+
+現在、Qurio Cell ViewerはWindows x64向けに公開しています。
+
+macOS・Linuxへの対応は、ご要望に応じて検討します。
 
 ### スクリーンショット・操作動画
 
